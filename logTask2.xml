@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-02T12:32:00.864444700Z</date>
+  <millis>1688301120864</millis>
+  <nanos>444700</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWork2</logger>
+  <level>INFO</level>
+  <class>HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort Array</message>
+</record>
+</log>
