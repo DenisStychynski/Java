@@ -55,7 +55,6 @@ numbersAndSubscribers();
                 put("Семенов", new ArrayList<Integer>() {
                     {
                         add(938209);
-                        add(811178);
                         add(909099);
                     }
                 });
@@ -76,7 +75,7 @@ numbersAndSubscribers();
                         add(836709);
                         add(502862);
                         add(134340);
-                        add(866449);
+                        
                     }
                 });
             }
